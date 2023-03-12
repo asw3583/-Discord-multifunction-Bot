@@ -1,4 +1,7 @@
 Discord-CommunityBot
+
+< 기능 소개 >
+
 출퇴근 시스템
 
 출퇴근 랭킹 시스템
